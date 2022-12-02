@@ -22,8 +22,9 @@
   </properties>
       
   <modules>
-            
+    <module>Common</module>
     <module>Day1</module>
+    <module>Day2</module>
   </modules>
   
 </project>
