@@ -5,6 +5,7 @@ import org.apache.commons.lang3.tuple.Pair;
 import java.util.ArrayList;
 import java.util.HashSet;
 
+@SuppressWarnings("SameParameterValue")
 public class Day4 {
     private static final ArrayList<String> input = new ArrayList<>(Common.readInput());
 
