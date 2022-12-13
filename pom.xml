@@ -1,40 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-      
-  <modelVersion>4.0.0</modelVersion>
-      
-  <groupId>com.hiroszymon</groupId>
-      
-  <artifactId>AdventOfCode2022</artifactId>
-      
-  <version>1.0-SNAPSHOT</version>
-      
-  <packaging>pom</packaging>
-      
-  <properties>
-            
-    <maven.compiler.source>17</maven.compiler.source>
-            
-    <maven.compiler.target>17</maven.compiler.target>
-            
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        
-  </properties>
-      
-  <modules>
-    <module>Common</module>
-    <module>Day1</module>
-    <module>Day2</module>
-      <module>Day3</module>
-      <module>Day4</module>
-      <module>Day5</module>
-      <module>Day6</module>
-      <module>Day7</module>
-      <module>Day8</module>
-      <module>Day9</module>
-      <module>Day10</module>
-      <module>Day11</module>
-      <module>Day12</module>
-  </modules>
-  
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.hiroszymon</groupId>
+
+    <artifactId>AdventOfCode2022</artifactId>
+
+    <version>1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
+    <properties>
+
+        <maven.compiler.source>17</maven.compiler.source>
+
+        <maven.compiler.target>17</maven.compiler.target>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    </properties>
+
+    <modules>
+        <module>Common</module>
+        <module>Day1</module>
+        <module>Day2</module>
+        <module>Day3</module>
+        <module>Day4</module>
+        <module>Day5</module>
+        <module>Day6</module>
+        <module>Day7</module>
+        <module>Day8</module>
+        <module>Day9</module>
+        <module>Day10</module>
+        <module>Day11</module>
+        <module>Day12</module>
+        <module>Day13</module>
+    </modules>
+
 </project>
