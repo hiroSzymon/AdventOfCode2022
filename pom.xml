@@ -24,20 +24,21 @@
 
     <modules>
         <module>Common</module>
-        <module>Day1</module>
-        <module>Day2</module>
-        <module>Day3</module>
-        <module>Day4</module>
-        <module>Day5</module>
-        <module>Day6</module>
-        <module>Day7</module>
-        <module>Day8</module>
-        <module>Day9</module>
+        <module>Day01</module>
+        <module>Day02</module>
+        <module>Day03</module>
+        <module>Day04</module>
+        <module>Day05</module>
+        <module>Day06</module>
+        <module>Day07</module>
+        <module>Day08</module>
+        <module>Day09</module>
         <module>Day10</module>
         <module>Day11</module>
         <module>Day12</module>
         <module>Day13</module>
         <module>Day14</module>
+        <module>Day15</module>
     </modules>
 
 </project>
